@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'play', sans-serif;
+    letter-spacing: 1.5px;
+}
+
+.BnW-logo-md {
+    height: 4em;
+    width: auto;
+
+}
+.BnW-logo-sm {
+    height: 3em;
+    width: auto;
+
+}
+
+.main-img {
+    width: 100%;
+    height: auto;
+
+}
+
+.default {
+    overflow-x: hidden;
+}
+
+/* .main-btn{
+    
+    justify-content: center;
+    align-items: center;
+    
+} */
+
+.current-offer {
+    background-color: black;
+}
+
+.offer-link {
+    text-decoration: none;
+    color: white;
+}
+
+.offer-link:hover {
+    color: white;
+    opacity: .7;
+    transition: .5s;
+}
+
+.background {
+    background-color: black;
+}
+
+.us-open {
+    width: 150px;
+}
+
+.segment-img {
+    height: 400px;
+}
+
+.image-slide::-webkit-scrollbar {
+    width: 0px;
+    height: 5px;
+}
+
+.image-slide::-webkit-scrollbar-thumb {
+    background-color: orange;
+    border-radius: 10px;
+
+}
+
+.line-up-more {
+    height: 400px;
+    width: 500px;
+}
+
+.lyriq-img {
+    width: 100%;
+}
+
+.elec-lyriq-txt {
+    letter-spacing: 5px;
+}
+ 
+
+.car-img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.celestiq-txt {
+    background-image: linear-gradient(to bottom right, #86011e, #da0130, #fc2755);
+}
+
+.ev-txt {
+    background-image: linear-gradient(to bottom left, #010044, #15118a, #2f27dc);
+}
+
+.benefit-card-img {
+    width: 100%;
+    height: auto;
+}
+
+.txt-size {
+    font-size: 11px;
+}
+
+.text-size {
+    font-size: 12px;
+}
+
+.txt-logo {
+    width: 200px;
+}
+
+.updates-btn {
+    width: 200px;
+}
+
+.updates-btn:hover {
+    background-color: black;
+    color: white;
+}
+i:hover{
+    cursor: pointer;
+}
